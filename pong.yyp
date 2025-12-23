@@ -16,7 +16,6 @@
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},"order":9,},
     {"id":{"name":"teste","path":"objects/teste/teste.yy",},"order":7,},
     {"id":{"name":"SprBola","path":"sprites/SprBola/SprBola.yy",},"order":0,},
-    {"id":{"name":"RmTelaInicial3","path":"rooms/RmTelaInicial3/RmTelaInicial3.yy",},"order":2,},
     {"id":{"name":"ObjBotao","path":"objects/ObjBotao/ObjBotao.yy",},"order":2,},
     {"id":{"name":"SprBolaOlho","path":"sprites/SprBolaOlho/SprBolaOlho.yy",},"order":1,},
     {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},"order":5,},
