@@ -19,7 +19,6 @@
     {"id":{"name":"ObjBotao","path":"objects/ObjBotao/ObjBotao.yy",},"order":2,},
     {"id":{"name":"SprBolaOlho","path":"sprites/SprBolaOlho/SprBolaOlho.yy",},"order":1,},
     {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},"order":5,},
-    {"id":{"name":"RmTelaInicial3","path":"rooms/RmTelaInicial3/RmTelaInicial3.yy",},"order":2,},
     {"id":{"name":"SprRaquete","path":"sprites/SprRaquete/SprRaquete.yy",},"order":7,},
     {"id":{"name":"teste9","path":"objects/teste9/teste9.yy",},"order":8,},
     {"id":{"name":"RmJogo","path":"rooms/RmJogo/RmJogo.yy",},"order":1,},
@@ -49,7 +48,6 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"RmTelaInicial","path":"rooms/RmTelaInicial/RmTelaInicial.yy",},},
     {"roomId":{"name":"RmJogo","path":"rooms/RmJogo/RmJogo.yy",},},
-    {"roomId":{"name":"RmTelaInicial3","path":"rooms/RmTelaInicial3/RmTelaInicial3.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Anotações","folderPath":"folders/Anotações.yy","order":12,},
